@@ -2,7 +2,7 @@
   "name": "ajaxer-fs",
   "version": "1.0.0",
   "description": "A server-side implementation of ajaxer that returns files asynchronously",
-  "main": "index.js",
+  "main": "./lib/ajaxer-fs.js",
   "scripts": {
     "test": "_mocha tests"
   },
