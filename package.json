@@ -1,0 +1,26 @@
+{
+  "name": "ajaxer-fs",
+  "version": "1.0.0",
+  "description": "A server-side implementation of ajaxer that returns files asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/power-cosmic/ajaxer-fs.git"
+  },
+  "keywords": [
+    "ajaxer"
+  ],
+  "author": "Tyler Hoffman <tyler.c.hoffman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/power-cosmic/ajaxer-fs/issues"
+  },
+  "homepage": "https://github.com/power-cosmic/ajaxer-fs#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2"
+  }
+}
